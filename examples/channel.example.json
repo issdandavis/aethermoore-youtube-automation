@@ -1,0 +1,8 @@
+{
+  "channel_name": "Example Creator",
+  "channel_handle": "@example",
+  "default_privacy": "unlisted",
+  "default_tags": ["creator tools", "education"],
+  "description_footer": "Subscribe for more practical videos."
+}
+
