@@ -30,6 +30,8 @@ python -m aether_youtube_automation transcript "https://www.youtube.com/watch?v=
 python -m aether_youtube_automation review examples/video_package.example.json
 ```
 
+For channel-specific setup, see [docs/SETUP_FOR_CREATORS.md](docs/SETUP_FOR_CREATORS.md).
+
 ## Configuration
 
 Copy `.env.example` to `.env` and fill only what you need.
@@ -59,4 +61,3 @@ tests/
 - subtitles/SRT generation helpers
 - creator-specific plugin folder
 - GitHub Actions smoke checks
-
